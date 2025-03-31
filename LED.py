@@ -1,3 +1,8 @@
+# name: Anbo Xu
+# id: 202283890035
+''' This program makes the LED light glitter and
+ shows its status to the terminal'''
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
